@@ -1,5 +1,7 @@
 # CINE - 사용자 좋아요 기반 영화 추천 
 
+## 사용 기술 스택
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Vue.js</title><path d="M24,1.61H14.06L12,5.16,9.94,1.61H0L12,22.39ZM12,14.08,5.16,2.23H9.59L12,6.41l2.41-4.18h4.43Z"/></svg>
 
 
 ## 목표 서비스 구현 및 실제 구현 정도
@@ -21,7 +23,7 @@
 
 
 
-# 데이터베이스 모델링(ERD)
+## 데이터베이스 모델링(ERD)
 ![default](image/ERD.png)
 
 
@@ -82,7 +84,7 @@
 - 해당 화면에서 좋아요를 누르고 영화 추천받기 버튼을 누르면 페이지가 새로고침되면서 추천 영화 목록들의 포스터를 띄우도록 설정         
 
 
-### Team Informations
+## Team Informations
 - 최다희
 > 화면 프레임 설계   
 > Back(DRF)   
