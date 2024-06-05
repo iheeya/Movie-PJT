@@ -56,7 +56,7 @@
 
 2. 로그인/로그아웃
 - 로그인 시 데이터베이스에 있는 사용자 이름이 아니라면 회원가입 알람창
-</br>
+       
 ![Animation](https://github.com/iheeya/Movie-PJT/assets/149504381/7bed31a2-9145-4d28-b0da-5ba805892577)
  
 3. 영화 전체 목록 조회
