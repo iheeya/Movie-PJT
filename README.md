@@ -50,10 +50,7 @@
 
 ## 핵심 기능
 
-<p align="center">
-  <img scr="https://github.com/iheeya/Movie-PJT/assets/149504381/7bed31a2-9145-4d28-b0da-5ba805892577">
-</p>
-
+![Animation](https://github.com/iheeya/Movie-PJT/assets/149504381/7bed31a2-9145-4d28-b0da-5ba805892577)
 1. 회원가입
 - 회원 가입시 이미 있는 사용자 이름이라면 알림창    
 - 회원 가입시 비밀번호가 일정 글자 이상 넘어가지 않으면 알림창
