@@ -14,7 +14,7 @@
  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
  <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/> <br/>
   <img src="https://img.shields.io/badge/git-%F05032?style=for-the-badge&logo=git&logoColor=white"/>
-   <img src="https://img.shields.io/badge/gitlab-%FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+   <img src="https://img.shields.io/badge/gitlab-%#FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </div>
 
 ## 목표 서비스 구현 및 실제 구현 정도
