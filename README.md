@@ -12,7 +12,9 @@
  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></br>
  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>     
  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
- <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
+ <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/> <br/>
+  <img src="https://img.shields.io/badge/git-%F05032?style=for-the-badge&logo=git&logoColor=white"/>
+   <img src="https://img.shields.io/badge/gitlab-%FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </div>
 
 ## 목표 서비스 구현 및 실제 구현 정도
