@@ -133,7 +133,7 @@
  
 > Front(Vue.js Script)   
  &ensp;&ensp;    영화 카테고리 페이지 구현(장르별 필터 + css)   
- &ensp;&ensp;    Django와 기능 연결   
+ &ensp;&ensp;    RESTAPI를 사용한 Django와의 통신 
 
 > Front(vue.js template)    
  &ensp;&ensp;    프로필 페이지   
