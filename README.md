@@ -74,7 +74,7 @@
 - 로그인한 사용자라면 영화 상세페이지에서 리뷰 생성 가능    
 - 해당 영화에 쓰인 리뷰 목록을 하단에 띄워 한번에 조회 가능
 
-![Animation](https://github.com/iheeya/Movie-PJT/assets/149504381/c471ff42-3587-47a6-b80c-ceb323a71ad5)
+![Animation](https://github.com/iheeya/Movie-PJT/assets/149504381/a21ae88d-c77c-4666-923b-2dffe06db27b) 
 
 
 5. 리뷰 생성/ 삭제
@@ -92,8 +92,8 @@
 7. 카테고리별 영화 조회
 - 상단 바에서 특정 영화 장르를 클릭하면 해당 장르의 영화 목록 조회 가능         
 - 포스터 클릭시 상세페이지로 이동 가능
-           
-![Animation](https://github.com/iheeya/Movie-PJT/assets/149504381/a21ae88d-c77c-4666-923b-2dffe06db27b)   
+           ![Animation](https://github.com/iheeya/Movie-PJT/assets/149504381/c471ff42-3587-47a6-b80c-ceb323a71ad5)
+  
 
 
 8. 프로필 페이지
